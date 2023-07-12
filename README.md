@@ -11,5 +11,5 @@
 ## Хобби
 В свободное время я посещаю фитнес-клуб, читаю книги, изучаю английский, люблю серфить
 
-![фото](http(s)://https://github.com/MariyaZvereva/About-me/blob/main/IMG_3615.heic)
-)
+![я](http(s)://github.com/MariyaZvereva/About-me/blob/main/IMG_3615.heic)
+
