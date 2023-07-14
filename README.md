@@ -14,6 +14,6 @@
 
 В свободное время я посещаю фитнес-клуб, читаю книги, изучаю английский, люблю серфить
 
-![Я](https://github.com/MariyaZvereva/About-me/blob/main/IMG_3615.heic)
+![Я](IMG_3615.heic)
 
 
